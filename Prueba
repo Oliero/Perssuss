@@ -1,2 +1,6 @@
+export AIRBRAKE_API_KEY=e63b3da7156e29efe80363aa637a0b8c
+export AIRBRAKE_PROJECT_ID=172264
+export AIRBRAKE_ENVIRONMENT=production
+
 print('hola')
 >>>hola
